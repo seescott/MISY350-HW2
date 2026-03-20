@@ -1,0 +1,12 @@
+[
+    {
+        "status": "Pending",
+        "course_id": "011101",
+        "student_email": "seescott@udel.edu",
+        "absence_date": "2026-03-20",
+        "submitted_timestamp": "2026-03-20 10:38:59",
+        "excuse_type": "Medical",
+        "explanation": "was feeling sick",
+        "instructor_note": ""
+    }
+]

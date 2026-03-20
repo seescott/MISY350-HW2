@@ -71,12 +71,9 @@ with tab1:
                     }
 
                     orders.append(order)
-
                     with json_file.open("w", encoding="utf-8") as f:
                         json.dump(inventory, f, indent=4)
-
                     st.success("Order Placed!")
-
                     with st.expander("Receipt", expanded=True):
                         st.write(order)
 
